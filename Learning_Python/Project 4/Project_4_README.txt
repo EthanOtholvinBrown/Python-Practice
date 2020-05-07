@@ -1,0 +1,7 @@
+1. A function that calculates sin(x), cos(x) and tan(x) for a input x in degrees and returns to the main program.
+2. A Write a function that finds the maximum and minimum of three numbers and returns to the main program.
+3. The area of a rectangle is calculated according to the following formula: Area = Width × Length
+4. A program that does the following to calculate the roots of the equation ax^2+bx+c=0   (1) The main program gets the values of a, b and c from the user. (2) The function rootCheck calculates the value of   and reports if the roots exist and if so whether they are unique or multiple. (3) If the roots exist the function rootTerms calculates the roots and the main program displays them to the user.
+5. A program that gets two sets of coordinates (x1,y1) and (x2,y2) from the user. The first set of coordinates must lie in the 2nd or 3rd quadrant. The 2nd set of coordinates must lie in the 1st or 4th quadrant. The program seeks the inputs until these criteria are met. It then calculates the distance and the angle between the two points.
+6. A program which accepts a users gender, age and hourly wage. Continuously takes input until "0" is entered
+7. Calculates the displacement of a particle
